@@ -10,6 +10,8 @@ namespace G
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("А я коко джамбо ай яй я");
+            Console.ReadKey();
         }
     }
 }
